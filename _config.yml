@@ -84,7 +84,7 @@ author:
   avatar           : "profile.jpg"
   bio              : "Assistant Professor of Public Policy and Education"
   location         : "Nashville, Tennessee"
-  employer         :
+  employer         : "Peabody College, Vanderbilt University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=_325fyQAAAAJ&hl=en"
   email            :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/chriscandelaria"
+  github           : "chriscandelaria"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0002-5903-6214"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "chriscandel"
   vine             :
   weibo            :
   xing             :
