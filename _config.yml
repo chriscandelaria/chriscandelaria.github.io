@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "C. A. Candelaria's Research Website"
+title                    : "Christopher A. Candelaria"
 title_separator          : "-"
 name                     : &name "Christopher A. Candelaria"
 description              : &description "Assistant Professor of Public Policy and Education at Vanderbilt University"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Christopher A. Candelaria"
   avatar           : "profile.jpg"
-  bio              : "Assistant Professor"
+  bio              : "Assistant Professor of Public Policy and Education"
   location         : "Nashville, Tennessee"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=_325fyQAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/chriscandelaria"
   google_plus      :
   keybase          :
   instagram        :
