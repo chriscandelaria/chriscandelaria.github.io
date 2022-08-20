@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Christopher A. Candelaria"
   avatar           : "profile.jpg"
-  bio              : "School finance and resource allocation <br> <br> Assistant Professor of Public Policy and Education <a style='color: black;' href='https://peabody.vanderbilt.edu/departments/lpo/'>Department of Leadership, Policy, and Organizations</a>"
+  bio              : "Assistant Professor of Public Policy and Education <br> <br> <a style='color: black;' href='https://peabody.vanderbilt.edu/departments/lpo/'>Department of Leadership, Policy, and Organizations</a> <br><br> Peabody College <br> Vanderbilt University"
   location         : "Nashville, Tennessee"
-  employer         : "Peabody College <br> Vanderbilt University"
+  employer         : #"Peabody College <br> Vanderbilt University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=_325fyQAAAAJ&hl=en"
   email            :
