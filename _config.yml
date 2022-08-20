@@ -13,7 +13,7 @@ name                     : &name "Christopher A. Candelaria"
 description              : &description "Assistant Professor of Public Policy and Education at Vanderbilt University"
 url                      : https://chriscandelaria.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "chriscandelaria.github.io"
+repository               : "chriscandelaria/chriscandelaria.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Christopher A. Candelaria"
   avatar           : "profile.jpg"
-  bio              : "Assistant Professor of Public Policy and Education"
+  bio              : "School finance and resource allocation <br> <br> Assistant Professor of Public Policy and Education <a style='color: black;' href='https://peabody.vanderbilt.edu/departments/lpo/'>Department of Leadership, Policy, and Organizations</a>"
   location         : "Nashville, Tennessee"
-  employer         : "Peabody College, Vanderbilt University"
+  employer         : "Peabody College <br> Vanderbilt University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=_325fyQAAAAJ&hl=en"
   email            :
