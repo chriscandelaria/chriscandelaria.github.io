@@ -2,9 +2,15 @@
 main:
   - title: "Publications"
     url: /publications/
+
+  - title: "Working Papers"
+    url: /working_papers/
     
   - title: "Projects"
     url: /projects/
+
+  - title: "Media Mentions"
+    url: /media_mentions/
 
   - title: "Presentations"
     url: /presentations/    
