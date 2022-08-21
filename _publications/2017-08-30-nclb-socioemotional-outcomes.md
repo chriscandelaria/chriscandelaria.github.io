@@ -1,7 +1,7 @@
 ---
 title: "The Effects of No Child Left Behind on Children's Socioemotional Outcomes"
 collection: publications
-forthcoming: no
+forthcoming: f0
 permalink: /publication/2017-08-30-nclb-socioemotional-outcomes
 excerpt: 'Abstract: Many people have worried about possible adverse effects of high-stakes testing on socioemotional outcomes. This article uses a difference-in-differences approach to investigate the effects of the introduction of high-stakes testing via the No Child Left Behind Act on socioemotional outcomes. Data are from the Early Childhood Longitudinal Survey-Kindergarten Cohort of 1998-1999, a nationally representative longitudinal survey. The 10 outcomes that we examine are from the children&apos;s Self-Descriptive Questionnaire, including externalizing problems related to paying attention and behavior in school, internalizing problems related to feeling sad and lonely and academic anxiety, as well as interest and competence in math, reading, and school in general. We find that the introduction of high-stakes test accountability did not have consistent significant effects on these socioemotional outcomes. These findings can help states address concerns and motivate further research on potential unintended consequences of revised accountability systems under the Every Student Succeeds Act.'
 date: 2017-08-30
