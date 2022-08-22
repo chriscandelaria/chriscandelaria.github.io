@@ -9,9 +9,6 @@ main:
   - title: "Projects"
     url: /projects/
 
-  - title: "Media Mentions"
-    url: /media_mentions/
-
   - title: "Presentations"
     url: /presentations/    
 
