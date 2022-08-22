@@ -11,4 +11,4 @@ citation: 'Candelaria, C. A., &amp; Shores, K. A. (2019). Court-Ordered Finance 
 ---
 Abstract: We provide new evidence about the effect of court-ordered finance reforms that took place between 1989 and 2010 on per-pupil revenues and graduation rates. We account for heterogeneity in the treated and counterfactual groups to estimate the effect of overturning a state&apos;s finance system. Seven years after reform, the highest poverty quartile in a treated state experienced an 11.5 percent to 12.1 percent increase in per-pupil spending, and a 6.8 to 11.5 percentage point increase in graduation rates. We subject the model to various sensitivity tests, which provide upper and lower bounds on the estimates. Estimates range, in most cases, from 6 to 12 percentage points for graduation rates.
 
-Note: If you cannot access the published version of the paper via the DOI link above, please contact me at chris <dot> candelaria <at> vanderbilt <dot> edu for an ungated copy. 
+Note: If you cannot access the published version of the paper via the DOI link above, please contact me at `chris <dot> candelaria <at> vanderbilt <dot> edu` for an ungated copy. 
