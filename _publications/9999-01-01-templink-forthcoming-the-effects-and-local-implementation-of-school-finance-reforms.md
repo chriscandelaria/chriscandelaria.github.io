@@ -2,7 +2,7 @@
 title: "The Effects and Local Implementation of School Finance Reforms on Teacher Salary, Hiring, and Turnover"
 collection: publications
 forthcoming: f1
-permalink: /publications/9999-01-01-templink-forthcoming-the-effects-and-local-implementation-of-school-finance-reforms.md
+permalink: /publications/9999-01-01-templink-forthcoming-the-effects-and-local-implementation-of-school-finance-reforms
 excerpt: 'We observed that local collective bargaining negotiations directed new state funding allocations to substantially increase certificated base salaries, particularly for senior teachers with 16 years or more of teaching experience. Suggestive evidence shows that state average teacher turnover rate was significantly reduced in the first year of reform.'
 date: 9999-01-01
 venue: 'Educational Evaluation and Policy Analysis'
