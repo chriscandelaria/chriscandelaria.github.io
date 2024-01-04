@@ -6,11 +6,8 @@ main:
   - title: "Working Papers"
     url: /working_papers/
     
-  - title: "Projects"
-    url: /projects/
-
-  - title: "Presentations"
-    url: /presentations/    
+  - title: "Current Projects"
+    url: /current_projects/ 
 
   - title: "Teaching"
     url: /teaching/    
