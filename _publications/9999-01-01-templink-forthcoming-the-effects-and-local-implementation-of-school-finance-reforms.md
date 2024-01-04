@@ -1,5 +1,5 @@
 ---
-title: "Spending More on the Poor? A Comprehensive Summary of State-Specific Responses to School Finance Reforms from 1990-2014"
+title: "The Effects and Local Implementation of School Finance Reforms on Teacher Salary, Hiring, and Turnover"
 collection: publications
 forthcoming: f1
 permalink: /publications/9999-01-01-templink-forthcoming-the-effects-and-local-implementation-of-school-finance-reforms.md
