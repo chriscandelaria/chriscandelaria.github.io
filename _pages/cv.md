@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-What follows is an abridged version of my CV. You may also download a PDF version of my <a style='color: darkblue;' href="https://chriscandelaria.github.io/files/Candelaria-CV.pdf">full-length CV</a>.
+What follows is an abridged version of my CV. You may also download a PDF version of my <a style='color: darkblue;' href="https://chriscandelaria.github.io/files/cv/CACandelaria_CV.pdf">full-length CV</a>.
 
 {% include base_path %}
 
@@ -21,17 +21,20 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+[//]: # (  
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+)
+
+[//]: # (
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+)  
 
