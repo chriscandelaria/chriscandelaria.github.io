@@ -2,15 +2,6 @@
 main:
   - title: "Publications"
     url: /publications/
-
-  - title: "Working Papers"
-    url: /working_papers/
-    
-  - title: "Current Projects"
-    url: /current_projects/ 
-
-  - title: "Teaching"
-    url: /teaching/    
     
   - title: "CV"
     url: /cv/
