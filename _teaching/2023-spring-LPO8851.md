@@ -2,9 +2,9 @@
 title: "LPO 8851: Regression Analysis I"
 collection: teaching
 type: "PhD course"
-permalink: /teaching/2024-spring-teaching-01
+permalink: /teaching/2023-spring-teaching-01
 venue: "Vanderbilt University, Peabody College, Department of Leadership Policy and Organizations"
-date: 2024-01-08
+date: 2023-01-08
 location: "Nashville, TN"
 excerpt: 'The goal of this applied Ph.D.-level course is for students to develop an understanding of regression analysis using econometric theory.'
 ---
