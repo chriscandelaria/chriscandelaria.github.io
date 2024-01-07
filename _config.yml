@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "C. A. Candelaria's<br>Research Website"
+title                    : "C. A. Candelaria's<br>Website"
 title_separator          : "-"
 name                     : &name "Christopher A. Candelaria"
 description              : &description "Assistant Professor of Public Policy and Education at Vanderbilt University"
