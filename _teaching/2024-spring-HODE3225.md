@@ -38,3 +38,5 @@ education
 6. Explain how local, state, and federal funding impact education finance
 7. Illustrate and explain parental decision making in the presence of school choice
 8. Describe the impact of a salary schedule on the teacher labor market
+
+Download the <a style='color: darkblue;' href="https://chriscandelaria.github.io/files/syllabi/hode3225/HODE3225_Spring2024.pdf">syllabus</a>.
