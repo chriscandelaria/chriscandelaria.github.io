@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my research website!
+Welcome to my website!
 
 I specialize in school finance and resource allocation. My research interests are driven by a desire to improve educational outcomes though two channels: (1) effective, well-informed policies at the federal, state, and local levels of government; (2) productive, impactful practices at the district and school levels. In conducting my research, I draw upon my background in economics and education policy. 
 
