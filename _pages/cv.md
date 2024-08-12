@@ -11,5 +11,5 @@ Download a PDF version of my <a style='color: darkblue;' href="https://chriscand
 
 {% include base_path %}
 
-<embed src="https://chriscandelaria.github.io/files/cv/CACandelaria_CV.pdf" width="600" height="700" type="application/pdf" />
+<embed src="https://chriscandelaria.github.io/files/cv/CACandelaria_CV.pdf" width="600" height="700" type="application/pdf" /> 
 
