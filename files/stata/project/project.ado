@@ -1,5 +1,6 @@
 *! version 3.0.0b4  4dec2020  Robert Picard, picard@netbox.com
 *! minor edits by Michael Stepner, software@michaelstepner.com
+*! additional edits by Chris Candelaria to enable usage on Apple Silicon
 program define project
 /*
 --------------------------------------------------------------------------------
