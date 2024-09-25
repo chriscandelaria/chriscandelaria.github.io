@@ -119,10 +119,12 @@ author:
 
 
 # Reading Files
+# Note: _strip_dta_timestamp.ado is for Stata project
 include:
   - .htaccess
   - _pages
   - files
+  - _strip_dta_timestamp.ado
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
