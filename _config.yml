@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Chris Candelaria's<br>Personal Website"
 title_separator          : "-"
 name                     : &name "Christopher A. Candelaria"
-description              : &description "Assistant Professor of Public Policy and Education at Vanderbilt University"
+description              : &description "Senior Researcher at Basis Policy Research"
 url                      : https://chriscandelaria.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chriscandelaria/chriscandelaria.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Christopher A. Candelaria"
   avatar           : "profile.jpg"
-  bio              : "Assistant Professor of Public Policy and Education <br><br> <a style='color: black;' href='https://peabody.vanderbilt.edu/academics/departments/leadership-policy-organizations/'>Department of Leadership, Policy, and Organizations</a> <br><br> Peabody College <br> Vanderbilt University <br> Nashville, TN <br><br> <a style='color: black;' href='https://peabody.vanderbilt.edu/bio/?pid=christopher-candelaria'>Faculty Website</a>"
+  bio              : "Senior Researcher <br><br> <a style='color: black;' href='https://basispolicyresearch.com/'>Basis Policy Research</a>"
   location         : 
   employer         : #"Peabody College <br> Vanderbilt University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
